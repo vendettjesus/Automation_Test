@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-11T09:36:44 CST" name="Default suite" finished-at="2023-04-11T09:37:06 CST" duration-ms="21937">
+    <groups>
+    </groups>
+    <test started-at="2023-04-11T09:36:44 CST" name="Default test" finished-at="2023-04-11T09:37:06 CST" duration-ms="21937">
+      <class name="com.checkingLinks.test.InicioSesiónTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.checkingLinks.test.InicioSesiónTest@689604d9]" started-at="2023-04-11T09:36:44 CST" name="beforeClass" finished-at="2023-04-11T09:37:00 CST" duration-ms="16087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="authUser()[pri:0, instance:com.checkingLinks.test.InicioSesiónTest@689604d9]" started-at="2023-04-11T09:37:00 CST" name="authUser" finished-at="2023-04-11T09:37:06 CST" duration-ms="5319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authUser -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.checkingLinks.test.InicioSesiónTest@689604d9]" started-at="2023-04-11T09:37:06 CST" name="afterClass" finished-at="2023-04-11T09:37:06 CST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.checkingLinks.test.InicioSesiónTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
